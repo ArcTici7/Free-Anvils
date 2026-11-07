@@ -1,0 +1,5 @@
+name: FreeAnvil
+version: '${version}'
+main: dev.freeanvil.FreeAnvilPlugin
+api-version: '26.3'
+description: Makes all anvil actions free and removes the "Too Expensive!" limit.
